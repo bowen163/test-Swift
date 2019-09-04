@@ -7,6 +7,7 @@
 //
 
 import Foundation
-
-print("Hello, World!")
-
+typealias feet = String
+var name:feet = "2345"
+var feather = "删都删不掉的"
+print("\(name)浏览器\(feather)")
